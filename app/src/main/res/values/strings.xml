@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ReadDataMatrix</string>
+    <string name="txt_barcode_default">Пока ничего нет</string>
+    <string name="txt_button">Сканировать</string>
+    <string name="txt_datamatrix">Здесь будет текстовое представление кода</string>
+</resources>
